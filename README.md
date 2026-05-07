@@ -8,13 +8,6 @@ Aspiring Data Analyst passionate about turning raw data into meaningful insights
 
 To build impactful data-driven solutions and grow as a Professional Data Analyst.
 
-## 🚀 Currently Working On
-
-* Data Analytics Projects using SQL, Python & Power BI
-* Building professional dashboards and business case studies
-* Improving data cleaning, visualization, and analytical skills
-* Preparing industry-ready portfolio projects
-
 ## 🛠️ Tools & Technologies
 
 * **Data Visualization:** Power BI, Excel
@@ -22,6 +15,14 @@ To build impactful data-driven solutions and grow as a Professional Data Analyst
 * **Programming:** Python
 * **Data Cleaning & Analysis:** SQL, Python, Excel
 * **Version Control:** Git & GitHub
+
+## 🚀 Currently Working On
+
+* Data Analytics Projects using SQL, Python & Power BI
+* Building professional dashboards and business case studies
+* Improving data cleaning, visualization, and analytical skills
+* Preparing industry-ready portfolio projects
+
 
 ## 📂 Projects
 
